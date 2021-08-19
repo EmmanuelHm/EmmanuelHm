@@ -8,4 +8,4 @@ Algunas de las tecnologias que mejor manejo son:
 * Html5 - CSS3
 * Bootstrap
 * Angular
-* Dart - Flutter (Moble)
+* Dart - Flutter (Mobile)
