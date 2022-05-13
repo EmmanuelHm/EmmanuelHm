@@ -9,3 +9,4 @@ Algunas de las tecnologias que utilizo son:
 * Bootstrap
 * Angular
 * Dart - Flutter (Mobile)
+* PHP
